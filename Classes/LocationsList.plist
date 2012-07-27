@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NewWestminster,BC</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>3</integer>
+		<key>2</key>
+		<dict>
+			<key>city</key>
+			<string>NewWestminster</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>611 Eighth Street</string>
+			<key>postal_code</key>
+			<string>V3M5S8</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.21576</real>
+			<key>Longitude</key>
+			<real>-122.9245</real>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>city</key>
+			<string>New Westminster</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>130-485 Columbia St East</string>
+			<key>postal_code</key>
+			<string>V3L3R1</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.23139</real>
+			<key>Longitude</key>
+			<real>-122.8933</real>
+		</dict>
+	</dict>
+	<key>Burnaby,BC</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>1</integer>
+		<key>3</key>
+		<dict>
+			<key>city</key>
+			<string>Burnaby</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>102A-6569 Kingsway</string>
+			<key>postal_code</key>
+			<string>V5E1E1</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.2186216</real>
+			<key>Longitude</key>
+			<real>-122.9524808</real>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>city</key>
+			<string>Burnaby</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>6665 East Hastings Street</string>
+			<key>postal_code</key>
+			<string>V5B1S1</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.28102</real>
+			<key>Longitude</key>
+			<real>-123.0059</real>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>city</key>
+			<string>Burnaby</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>1809 Rosser Avenue</string>
+			<key>postal_code</key>
+			<string>V5C6R4</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.26783</real>
+			<key>Longitude</key>
+			<real>-123.006</real>
+		</dict>
+	</dict>
+	<key>Surrey,BC</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>2</integer>
+		<key>8</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>14851 108th Avenue</string>
+			<key>postal_code</key>
+			<string>V3R1W1</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.19886</real>
+			<key>Longitude</key>
+			<real>-122.8414</real>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>102-8556 120th Street</string>
+			<key>postal_code</key>
+			<string>V3W9R4</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.13135</real>
+			<key>Longitude</key>
+			<real>-122.8902</real>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>103-2982 152nd Street</string>
+			<key>postal_code</key>
+			<string>V4P3N7</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.05574</real>
+			<key>Longitude</key>
+			<real>-122.8011</real>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>114-7230 King George Boulevard</string>
+			<key>postal_code</key>
+			<string>V3W5A5</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.12</real>
+			<key>Longitude</key>
+			<real>-122.8399</real>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>101-15420 Fraser Highway</string>
+			<key>postal_code</key>
+			<string>V3R3P5</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.1767</real>
+			<key>Longitude</key>
+			<real>-122.8288</real>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>150-7310 120th Street</string>
+			<key>postal_code</key>
+			<string>V3W2M1</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.13135</real>
+			<key>Longitude</key>
+			<real>-122.8902</real>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>101-12840 16th Ave WhiteRock</string>
+			<key>postal_code</key>
+			<string>V4A1N5</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.03129</real>
+			<key>Longitude</key>
+			<real>-122.8664</real>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>city</key>
+			<string>Surrey</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>5669 176A Street</string>
+			<key>postal_code</key>
+			<string>V3S1H1</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.1049</real>
+			<key>Longitude</key>
+			<real>-122.7324</real>
+		</dict>
+	</dict>
+	<key>Vancouver,BC</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>0</integer>
+		<key>10</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>5738 Tyne Street</string>
+			<key>postal_code</key>
+			<string>V5R5L4</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.23145</real>
+			<key>Longitude</key>
+			<real>-123.0317</real>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>1386 Nanaimo Street</string>
+			<key>postal_code</key>
+			<string>V5L5C5</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.27242</real>
+			<key>Longitude</key>
+			<real>-123.0566</real>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>1278 West Broadway</string>
+			<key>postal_code</key>
+			<string>V6H3X8</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.26334</real>
+			<key>Longitude</key>
+			<real>-123.1327</real>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>2905 West Broadway</string>
+			<key>postal_code</key>
+			<string>V6K2G6</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.26415</real>
+			<key>Longitude</key>
+			<real>-123.1705</real>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>2928 Main Street</string>
+			<key>postal_code</key>
+			<string>V5T3G3</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.25882</real>
+			<key>Longitude</key>
+			<real>-123.1011</real>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>8333 Granville Street</string>
+			<key>postal_code</key>
+			<string>V6P4Z8</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.21096</real>
+			<key>Longitude</key>
+			<real>-123.1405</real>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>1267 Pacific Boulevard</string>
+			<key>postal_code</key>
+			<string>V6Z2R6</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.27376</real>
+			<key>Longitude</key>
+			<real>-123.1233</real>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>7153 Victoria Drive</string>
+			<key>postal_code</key>
+			<string>V5P3Y7</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.21931</real>
+			<key>Longitude</key>
+			<real>-123.0661</real>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>969 Denman Street</string>
+			<key>postal_code</key>
+			<string>V6G2M1</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.28975</real>
+			<key>Longitude</key>
+			<real>-123.1383</real>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>city</key>
+			<string>Vancouver</string>
+			<key>State/Prov</key>
+			<string>BC</string>
+			<key>address</key>
+			<string>101-1199 West Pender Street</string>
+			<key>postal_code</key>
+			<string>V6B5N2</string>
+			<key>telephone</key>
+			<string>604-310-0001</string>
+			<key>description</key>
+			<string>Sun-Thu 11am to 12am, Fri+Sat 11am to 1am, Holidays 11am to 12am</string>
+			<key>Latitude</key>
+			<real>49.28112</real>
+			<key>Longitude</key>
+			<real>-123.1076</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Soups</key>
+	<dict>
+		<key>French Onion Soup</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Cream of Mushroom</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Tomato Soup</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+	</dict>
+	<key>Salads</key>
+	<dict>
+		<key>Green Salad</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Egg Salad</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Some Weird Salad</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+	</dict>
+	<key>Burgers</key>
+	<dict>
+		<key>Filet Mignon</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Ham Burger</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Fish Burger</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+	</dict>
+	<key>Vegetables</key>
+	<dict>
+		<key>EggPlant </key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Fresh Garden Vegetables</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Potatoes and Green Peppers</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+	</dict>
+	<key>Desserts</key>
+	<dict>
+		<key>Creme brulee</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Chocolate Ice Cream</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+		<key>Vanilla ice cream</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>Description = great</string>
+			<key>Calories</key>
+			<string>calories = 200</string>
+			<key>Price</key>
+			<string>Price = $</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

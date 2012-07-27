@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sides</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>0</integer>
+		<key>french fries</key>
+		<string>2.00</string>
+		<key>mashed potatoes</key>
+		<string>2.00</string>
+		<key>nachos</key>
+		<string>2.00</string>
+		<key>onion rings</key>
+		<string>2.50</string>
+		<key>tortilas</key>
+		<string>1.00</string>
+		<key>poutine</key>
+		<string>3.00</string>
+	</dict>
+	<key>Special_requests</key>
+	<dict>
+		<key>displayPriority</key>
+		<real>1</real>
+		<key>mild</key>
+		<string></string>
+		<key>medium</key>
+		<string></string>
+		<key>hot</key>
+		<string></string>
+		<key>no dairy</key>
+		<string></string>
+		<key>whole wheat bread</key>
+		<string></string>
+		<key>white bread</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

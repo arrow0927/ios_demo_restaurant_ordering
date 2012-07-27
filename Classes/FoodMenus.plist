@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>vegetariano</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>0</integer>
+		<key>Quattro Formaggio</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>12.00</string>
+		</dict>
+		<key>Grilled+GoatCheese</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>14.00</string>
+		</dict>
+		<key>Primo Vegetarian</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>15.00</string>
+		</dict>
+	</dict>
+	<key>carne</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>1</integer>
+		<key>Italian Meatball</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>20.00</string>
+		</dict>
+		<key>New York Deli</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>23.00</string>
+		</dict>
+		<key>Mediterranean</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>24.00</string>
+		</dict>
+	</dict>
+	<key>pollo</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>2</integer>
+		<key>Chipotle Chicken</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>22.00</string>
+		</dict>
+		<key>Chicken Club</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>24.00</string>
+		</dict>
+		<key>BBQ Chicken</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>26.00</string>
+		</dict>
+	</dict>
+	<key>oceano</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>3</integer>
+		<key>Primo Shrimp</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>32.00</string>
+		</dict>
+		<key>Shrimp Club</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>35.00</string>
+		</dict>
+		<key>Pesto Shrimp</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>36.00</string>
+		</dict>
+	</dict>
+	<key>frugal favorites</key>
+	<dict>
+		<key>displayPriority</key>
+		<string>4</string>
+		<key>Cheese</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>5.00</string>
+		</dict>
+		<key>Pepperoni</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>8.00</string>
+		</dict>
+		<key>MeatBall</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL to be provided</string>
+			<key>Description</key>
+			<string>great</string>
+			<key>Calories</key>
+			<string>200</string>
+			<key>Price</key>
+			<string>9.00</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

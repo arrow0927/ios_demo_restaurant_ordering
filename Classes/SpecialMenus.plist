@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dips</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>1</integer>
+		<key>Italian Garlic Dip</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>4.50</string>
+			<key>Description</key>
+			<string>with Italian spices and a slight garlic finish.</string>
+		</dict>
+		<key>Italian Tomato Dip</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>3.00</string>
+			<key>Description</key>
+			<string>made with real crushed tomatoes and hints of Italian spices</string>
+		</dict>
+		<key>Sweet Frost Dip</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>3.50</string>
+			<key>Description</key>
+			<string>homestyle frosting flavoured with cream cheese, pure vanilla </string>
+		</dict>
+		<key>Balsamic Vinaigrette Dip</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>3.50</string>
+			<key>Description</key>
+			<string>Slightly sweet classic vinaigrette style dressing</string>
+		</dict>
+		<key>Blue Cheese Dip</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>2.50</string>
+			<key>Description</key>
+			<string>A creamy dressing with chunks of real blue cheese</string>
+		</dict>
+		<key>Classic Dip</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>3.50</string>
+			<key>Description</key>
+			<string>A classic Caesar dressing with a bold and creamy taste.</string>
+		</dict>
+	</dict>
+	<key>Shakes</key>
+	<dict>
+		<key>displayPriority</key>
+		<string>0</string>
+		<key>Formaggio Shaker</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>2.50</string>
+			<key>Description</key>
+			<string>Grated parmesan, asiago and romano cheeses</string>
+		</dict>
+		<key>Italiano Shaker</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>5.50</string>
+			<key>Description</key>
+			<string>Sun-dried red + green peppers, basil, oregano, sage, thyme, parsley, garlic + onion</string>
+		</dict>
+		<key>Chilli Shaker</key>
+		<dict>
+			<key>Picture</key>
+			<string>URL</string>
+			<key>Price</key>
+			<string>4.50</string>
+			<key>Description</key>
+			<string>A trio of red + chipotle chillies + jalapeño peppers. Medium heat with subtle sweetness.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

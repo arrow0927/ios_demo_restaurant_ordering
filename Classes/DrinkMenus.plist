@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Juices</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>1</integer>
+		<key>Organic Apple Juice</key>
+		<dict>
+			<key>pathToPhoto</key>
+			<string></string>
+			<key>Picture</key>
+			<string></string>
+			<key>Description</key>
+			<string></string>
+			<key>Calories</key>
+			<string></string>
+			<key>Price</key>
+			<string>2.00</string>
+		</dict>
+		<key>Organic Orange Juice</key>
+		<dict>
+			<key>pathToPhoto</key>
+			<string></string>
+			<key>Picture</key>
+			<string></string>
+			<key>Description</key>
+			<string></string>
+			<key>Calories</key>
+			<string></string>
+			<key>Price</key>
+			<string>3.50</string>
+		</dict>
+		<key>Organic Grapple Juice</key>
+		<dict>
+			<key>pathToPhoto</key>
+			<string></string>
+			<key>Picture</key>
+			<string></string>
+			<key>Description</key>
+			<string></string>
+			<key>Calories</key>
+			<string></string>
+			<key>Price</key>
+			<string>4.00</string>
+		</dict>
+		<key>Organic Juice- Lemonade</key>
+		<dict>
+			<key>pathToPhoto</key>
+			<string></string>
+			<key>Picture</key>
+			<string></string>
+			<key>Description</key>
+			<string></string>
+			<key>Calories</key>
+			<string></string>
+			<key>Price</key>
+			<string>4.00</string>
+		</dict>
+	</dict>
+	<key>Pops</key>
+	<dict>
+		<key>displayPriority</key>
+		<integer>0</integer>
+		<key>San Pellegrino Aranciata</key>
+		<dict>
+			<key>pathToPhoto</key>
+			<string></string>
+			<key>Picture</key>
+			<string></string>
+			<key>Description</key>
+			<string></string>
+			<key>Calories</key>
+			<string></string>
+			<key>Price</key>
+			<string>2.00</string>
+		</dict>
+		<key>San Pellegrino Limonata</key>
+		<dict>
+			<key>pathToPhoto</key>
+			<string></string>
+			<key>Picture</key>
+			<string></string>
+			<key>Description</key>
+			<string></string>
+			<key>Calories</key>
+			<string></string>
+			<key>Price</key>
+			<string>2.00</string>
+		</dict>
+		<key>San Pellegrino Chinotto</key>
+		<dict>
+			<key>pathToPhoto</key>
+			<string></string>
+			<key>Picture</key>
+			<string></string>
+			<key>Description</key>
+			<string></string>
+			<key>Calories</key>
+			<string></string>
+			<key>Price</key>
+			<string>2.00</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
